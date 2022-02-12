@@ -5,6 +5,8 @@ As an IOT/Computer Visions Intern at the Graduate Rotational Internship program 
 
 For more learning purposes, I've utilized this feature in cleaning/extracting valuable information from Blood Pressure Reports as images.
 
+![download](https://user-images.githubusercontent.com/47258547/153708039-44adc12c-ec9c-4644-a707-0137f0caabac.png)
+
 # **Dependencies**
 
 
