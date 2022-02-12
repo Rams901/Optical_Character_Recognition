@@ -9,7 +9,6 @@ For more learning purposes, I've utilized this feature in cleaning/extracting va
 
 
 
-
 <h5>
 <li>tesseract-ocr package
 <li>pytesseract 0.3.8
